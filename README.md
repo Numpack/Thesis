@@ -2,7 +2,7 @@
 
 Bachelor's Thesis — Neapolis University Paphos  
 Author: Danila  
-Supervisor: Dr. Marios Touloupos
+Supervisor: Dr. Marios Touloupou
 
 ---
 
